@@ -1,4 +1,4 @@
-def my_hash(family)
+def my_hash
   family = { "Husband" => "Chris", "Oldest" => "Coco", "Youngest" => "Phoebe"}
 end
 
